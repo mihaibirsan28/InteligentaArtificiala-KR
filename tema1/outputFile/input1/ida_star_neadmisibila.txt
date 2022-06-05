@@ -1,0 +1,52 @@
+Soluția 1: 
+Lungime drum: 3
+Cost drum: 7.0
+Cost maxim estimat: 28.9
+Timp de găsire: 5 ms
+0) Broscovina se află pe frunza inițială: id1(0,0).
+Greutate Broscovina:5
+Broscovina a mâncat 5 insecte. 
+1) Broscovina a sărit de la id1(0, 0) la id14(-1, -1).Greutate Broscovina: 9
+Broscovina a mâncat 1 insecte. 
+2) Broscovina a sărit de la id14(-1, -1) la id10(-3, -3).Greutate Broscovina: 9
+3) Broscovina a ajuns la mal în 3 sărituri.
+
+Soluția 2: 
+Lungime drum: 3
+Cost drum: 7.0
+Cost maxim estimat: 28.9
+Timp de găsire: 10 ms
+0) Broscovina se află pe frunza inițială: id1(0,0).
+Greutate Broscovina:5
+Broscovina a mâncat 5 insecte. 
+1) Broscovina a sărit de la id1(0, 0) la id14(-1, -1).Greutate Broscovina: 9
+Broscovina a mâncat 1 insecte. 
+2) Broscovina a sărit de la id14(-1, -1) la id10(-3, -3).Greutate Broscovina: 9
+3) Broscovina a ajuns la mal în 3 sărituri.
+
+Soluția 3: 
+Lungime drum: 3
+Cost drum: 7.0
+Cost maxim estimat: 28.9
+Timp de găsire: 14 ms
+0) Broscovina se află pe frunza inițială: id1(0,0).
+Greutate Broscovina:5
+Broscovina a mâncat 5 insecte. 
+1) Broscovina a sărit de la id1(0, 0) la id14(-1, -1).Greutate Broscovina: 9
+Broscovina a mâncat 1 insecte. 
+2) Broscovina a sărit de la id14(-1, -1) la id10(-3, -3).Greutate Broscovina: 9
+3) Broscovina a ajuns la mal în 3 sărituri.
+
+Soluția 4: 
+Lungime drum: 3
+Cost drum: 7.0
+Cost maxim estimat: 28.9
+Timp de găsire: 19 ms
+0) Broscovina se află pe frunza inițială: id1(0,0).
+Greutate Broscovina:5
+Broscovina a mâncat 5 insecte. 
+1) Broscovina a sărit de la id1(0, 0) la id14(-1, -1).Greutate Broscovina: 9
+Broscovina a mâncat 1 insecte. 
+2) Broscovina a sărit de la id14(-1, -1) la id10(-3, -3).Greutate Broscovina: 9
+3) Broscovina a ajuns la mal în 3 sărituri.
+
